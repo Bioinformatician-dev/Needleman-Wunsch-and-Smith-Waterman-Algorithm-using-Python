@@ -3,10 +3,6 @@
 The Needleman-Wunsch and Smith-Waterman algorithms are two fundamental techniques in bioinformatics for sequence alignment. The Needleman-Wunsch algorithm is used for global alignment, while the Smith-Waterman algorithm is designed for local alignment. This document provides Python implementations of both algorithms, along with explanations of their functionality.
 
 
-## Authors
-
-- [@Salma](https://www.github.com/Bioinformatician-dev)
-
 
 ## Explaination
 
